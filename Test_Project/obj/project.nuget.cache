@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "08pEOg5iCAd28ZALWCCyKwtMwdWSTdtYOkslUxVXL4MDcuZFkQ+DlPij/J8+AcbVXGhPOlsvtNq3i+wLet02Ag==",
+  "dgSpecHash": "D3NvWoEMeXTzPthAtHnzA82ELdaq/0RpmZy1LVPBiMTa5tNVTFHyvzESVczKmH3FF+z0RLWHcw0bfgAmaMu2Sw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\source\\repos\\Test_Project\\Test_Project\\Test_Project.csproj",
+  "projectFilePath": "C:\\Users\\danie\\source\\repos\\test\\Test_Project\\Test_Project.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
